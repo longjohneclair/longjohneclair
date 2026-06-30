@@ -3,7 +3,7 @@ body {
   color: black;
   font-family: verdana;
   white-space: nowrap; 
-  max-size: 200px;
+  max-width: 400px;
 }
 
 h1 {
