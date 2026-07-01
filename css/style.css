@@ -17,12 +17,11 @@ h1 {
 }
 
 .centtext {
-    width: 500px; 
-    max-width: 90%;
+    width: 400px; 
     text-align: top;
-    margin-left: 300px;
+    margin-left: 600px;
     position: fixed;
-    margin-top: 13px;
+    margin-top: 40px;
     top: 0;
 }
 
