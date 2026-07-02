@@ -16,8 +16,7 @@ h1 {
   color: #F3E6BB;
 }
 
-.centtext {
-    width: 400px; 
+.centtext { 
     display: flex;
     justify-content: center;
     align-items: center;
